@@ -15,7 +15,7 @@ It has two ways of working:
 - **Manual mode:** you turn a potentiometer (a knob), and the selected joint follows it.
 - **Autonomous mode:** the arm sweeps left and right on its own. When its ultrasonic sensor spots an object, it beeps, picks it up, drops it in a side zone, and goes back to sweeping.
 
-There are no buttons. You switch modes by holding something close to the sensor (see [Switching modes](#switching-modes)).
+There are no buttons. You switch modes by holding something close to the sensor.
 
 ---
 
