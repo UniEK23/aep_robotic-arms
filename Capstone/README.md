@@ -4,7 +4,7 @@ A simulated 3-joint robotic arm that you can drive by hand with a knob, or let r
 
 **Tinkercad circuit:** (https://www.tinkercad.com/things/kdIKciD8UJ1-roboticarmcapstone?sharecode=2wLQdPfzfIeYYq6piBK8LpTk7OQQ-Z6QWqpUG5AajUI)
 
-![Circuit screenshot][(/Capstone/Media/Screenshot 2026-10-21 at 22-52-10 Circuit design Robotic_Arm_Capstone - Tinkercad.png)]
+![Circuit screenshot](Media/Screenshot 2026-10-21 at 22-52-10 Circuit design Robotic_Arm_Capstone - Tinkercad.png)
 
 ---
 
