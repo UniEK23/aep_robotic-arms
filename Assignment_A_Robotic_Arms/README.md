@@ -107,11 +107,9 @@ I built the circuit up in stages instead of wiring everything at once:
 ## How to run it
 
 1. Create a new circuit in Tinkercad and build the layout from the tables above.
-2. Open the **Code** panel, switch to text mode, and paste in the sketch.
+2. Open the **Code** panel, switch to text mode and paste in the sketch.
 3. Click **Start Simulation**.
 4. Click and drag the potentiometer knobs. Each one moves its matching servo.
-
-To run it on real hardware, upload the same sketch to an Arduino Uno and power the servos from an external supply rather than the Uno's 5 V pin, with the grounds joined.
 
 ## Limitations
 
@@ -127,4 +125,4 @@ To run it on real hardware, upload the same sketch to an Arduino Uno and power t
 
 ## Author
 
-**Ekan Etop Anaikot**: web developer, 3D artist and game developer, learning robotics and robotic arms. Open to collaborations, internships and freelance work.
+**Ekan Etop Anaikot**: web developer, 3D artist and game developer, learning robotics and robotic arms through Aurora Robotics.
