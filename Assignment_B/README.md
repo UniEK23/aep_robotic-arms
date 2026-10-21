@@ -81,7 +81,7 @@ One bad echo could jump the output around. The sketch now takes 5 readings, igno
 
 ## The code
 
-[`/ultrasonic_v21.ino`](/Assignment_B/ultrasonic_v21.ino)
+[`/Assignment_B/ultrasonic_v21.ino`](/Assignment_B/ultrasonic_v21.ino)
 
 Key settings at the top of the sketch:
 
